@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "@types/jszip": "^3.1.6",
-    "@types/lodash": "^4.14.138",
+    "@types/lodash": "^4.14.142",
     "@types/node": "^12.7.4",
     "jszip": "^3.2.2"
   }
