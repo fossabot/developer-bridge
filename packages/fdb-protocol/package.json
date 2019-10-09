@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@types/invariant": "^2.2.29",
-    "@types/node": "^12.7.4",
+    "@types/node": "^12.7.12",
     "@types/semver": "^6.0.1",
     "@types/validator": "^10.11.1"
   }
